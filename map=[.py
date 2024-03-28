@@ -58,6 +58,7 @@ def dfs(start,goal):
 bfs(5,8)
 print("slawwww")
 
+print("hello")
 
 
 
